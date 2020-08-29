@@ -15,5 +15,5 @@ Clone the project
 run npm install
 run npm start
 
-Click here to see the live demo  [https://gk-facebook-clone.web.app/](http://localhost:3000) 
+Click here to see the [live demo](https://gk-facebook-clone.web.app/) 
 
